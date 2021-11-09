@@ -1,4 +1,4 @@
-## Hi there! I'm Raúl Guzmán👋🏳️‍🌈
+## Hi there! I'm Raúl Guzmán👋
 
 ### Backend Software Engineer
 
