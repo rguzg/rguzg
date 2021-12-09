@@ -20,7 +20,7 @@ const Raúl = {
 ```
 
 - **Currently working at 🖥️:** [Centro de Desarrollo @ Facultad de Informática](https://www.uaq.mx/informatica/cede.html)
-- **Currently listening to 🎧:** [KGLW](https://www.youtube.com/watch?v=iT8MVjkG-ao)
+- **Currently listening to 🎧:** [Heathens - Aurora](https://www.youtube.com/watch?v=1eZZBZLNpNU)
 - **Currently playing 🎮:** [Deltarune Chapter 2](https://www.youtube.com/watch?v=h5aS3lYOZyU)
-- **Currently watching 👀:** [Paranoia Agent](https://www.youtube.com/watch?v=-anabfAg06U)
+- **Currently watching 👀:** [Ugly Americans](https://www.youtube.com/watch?v=LT3cERVRoQo)
 - **Currently reading 📕:** [A weird book about Rasputin](https://www.youtube.com/watch?v=16y1AkoZkmQ)
