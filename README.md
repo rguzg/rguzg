@@ -22,5 +22,5 @@ const Raúl = {
 - **Currently working at 🖥️:** [Centro de Desarrollo @ Facultad de Informática](https://www.uaq.mx/informatica/cede.html)
 - **Currently listening to 🎧:** [Heathens - Aurora](https://www.youtube.com/watch?v=1eZZBZLNpNU)
 - **Currently playing 🎮:** [Deltarune Chapter 2](https://www.youtube.com/watch?v=h5aS3lYOZyU)
-- **Currently watching 👀:** [Ugly Americans](https://www.youtube.com/watch?v=LT3cERVRoQo)
-- **Currently reading 📕:** [A weird book about Rasputin](https://www.youtube.com/watch?v=16y1AkoZkmQ)
+- **Currently watching 👀:** [Seaside Stranger](https://www.youtube.com/watch?v=cHYPpPSFDsU)
+- **Currently reading 📕:** [A bunch of books because I just got a Kindle!](https://www.youtube.com/watch?v=HxkmXnRQblE)
