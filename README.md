@@ -23,4 +23,4 @@ const Raúl = {
 - **Currently listening to 🎧:** [I'm on a Gustavo Cerati kick at the moment](https://www.youtube.com/watch?v=anwnvTPAJG0)
 - **Currently playing 🎮:** [Earthbound](https://www.youtube.com/watch?v=I6LZ1GqSrEE)
 - **Currently watching 👀:** [Komi Can't Communicate](https://www.youtube.com/watch?v=tLdLTSnmnoA)
-- **Currently reading 📕:** Implementing DDD
+- **Currently reading 📕:** Implementing DDD, A Philosophy of Software Design
