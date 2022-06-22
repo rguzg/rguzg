@@ -14,13 +14,13 @@ const Raúl = {
   tools: {
     mediumExperience: ['Node.js', 'Express', 'Django'],
     workingKnowledge: ['React', 'Electron', 'Jest'],
-    justStarted: ['Svelte', 'Prisma', 'GraphQL', 'Hexagonal Architecture', 'Domain Driven Design'],
+    justStarted: ['Prisma', 'GraphQL', 'Hexagonal Architecture', 'Domain Driven Design', 'Test Driven Development'],
   },
 };
 ```
 
-- **Currently working at 🖥️:** [IDEA23 @ Columbus de México](https://www.columbus.mx)
+<!-- - **Currently working at 🖥️:** [IDEA23 @ Columbus de México](https://www.columbus.mx) -->
 - **Currently listening to 🎧:** [I'm on a Gustavo Cerati kick at the moment](https://www.youtube.com/watch?v=anwnvTPAJG0)
-- **Currently playing 🎮:** [Earthbound](https://www.youtube.com/watch?v=I6LZ1GqSrEE)
-- **Currently watching 👀:** [Komi Can't Communicate](https://www.youtube.com/watch?v=tLdLTSnmnoA)
+- **Currently playing 🎮:** [OMORI](https://www.youtube.com/watch?v=CyVv-jFJiJ8) 🔪
+- **Currently watching 👀:** [Always Sunny in Philadelphia](https://www.youtube.com/watch?v=ecRytTfWL8Q)
 - **Currently reading 📕:** Implementing DDD, A Philosophy of Software Design
