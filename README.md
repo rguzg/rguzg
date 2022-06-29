@@ -19,7 +19,7 @@ const Raúl = {
 };
 ```
 
-<!-- - **Currently working at 🖥️:** [IDEA23 @ Columbus de México](https://www.columbus.mx) -->
+- **Currently working at 🖥️:** [Leadsales](https://leadsales.io/)
 - **Currently listening to 🎧:** [I'm on a Gustavo Cerati kick at the moment](https://www.youtube.com/watch?v=anwnvTPAJG0)
 - **Currently playing 🎮:** [OMORI](https://www.youtube.com/watch?v=CyVv-jFJiJ8) 🔪
 - **Currently watching 👀:** [Always Sunny in Philadelphia](https://www.youtube.com/watch?v=ecRytTfWL8Q)
